@@ -34,3 +34,34 @@ padding: 0;
     height: 400px;
     margin-top: 60px;
 }
+.feature-sec{
+    margin-top: 80px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.flower-sec{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 100px;
+    text-align: center;
+}
+.flw-img{
+    width: 200px;
+    height: 260px;
+    margin-bottom: 10px;
+}
+.pic-1{
+    background-color: #eee5e7;
+    padding: 40px;
+    border-radius: 250px 250px 0px 0px;
+}
+.pic-2{
+    background-color: #d3cfd0;
+    padding: 40px;
+    border-radius: 250px 250px 0px 0px;
+}
+.pic-3{
+    background-color: #e9b1bd;
+    padding: 40px;
+    border-radius: 250px 250px 0px 0px;
+}
