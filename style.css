@@ -102,3 +102,16 @@ padding: 0;
     text-align: center;
     margin-top: 85px;
 }
+.insta-sec{
+    margin-top: 70px;
+    text-align: center;
+}
+.insta-img-sec{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px 100px;
+}
+.insta-img{
+    width: 250px;
+    height: 296px;
+}
