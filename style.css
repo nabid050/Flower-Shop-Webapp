@@ -65,3 +65,25 @@ padding: 0;
     padding: 40px;
     border-radius: 250px 250px 0px 0px;
 }
+.service-sec{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 100px;
+    text-align:center;
+    background-color: #f1dbdb;
+    padding: 25px;
+}
+.except{
+    color: #E55473;
+}
+.deal-sec{
+    display: flex;
+    justify-content: space-around;
+}
+.deal-text{
+    margin-top: 100px;
+    text-align: center;
+}
+.deal-para{
+    margin-top: 8px;
+}
