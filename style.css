@@ -87,3 +87,18 @@ padding: 0;
 .deal-para{
     margin-top: 8px;
 }
+.deal-sec-2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 100px;
+}
+.new-img{
+    width: 318px;
+    height: 420px;
+    border-radius: 20px;
+}
+.except-new{
+    text-align: center;
+    margin-top: 85px;
+}
