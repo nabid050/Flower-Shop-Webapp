@@ -115,3 +115,27 @@ padding: 0;
     width: 250px;
     height: 296px;
 }
+.form-sec{
+    margin: 100px 100px;
+    margin-top: 100px;
+}
+.background-sec{
+    background-image: url("./Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    width: 950px;
+    height: 250px;
+    padding: 100px;
+}
+.form-text{
+    text-align: center;
+}
+.footer-sec{
+    background-color: black;
+    padding: 100px;
+}
+.input-area{
+    padding: 10px;
+    width: 280px;
+    border: 0;
+    border-radius: 5px;
+}
