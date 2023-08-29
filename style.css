@@ -139,3 +139,10 @@ padding: 0;
     border: 0;
     border-radius: 5px;
 }
+.footer-text{
+    text-align: center;
+}
+.wh-text{
+    color: white;
+    margin-top: 5px;
+}
